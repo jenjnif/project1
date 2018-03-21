@@ -1,3 +1,6 @@
+This was probably one of the first things on my GitHub account. I don't remember if it was already there or if I made it to try to learn a bit about how the README files and markdown worked. Whatever it was for it is quite something. Enjoy!
+---------------------
+
 # project1
 this is a test
 A First Level Header
